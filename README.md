@@ -1,6 +1,9 @@
 # Clarion-H5-Cleaner
 Cleans folders left behind when there is no clean exit from the Clarion H5 Appbroker
 
+* Requires Clarion 10 or later
+
+
 This utility is designed to be run after hours by the Windows Task Sceduler with an Administrator login.
 Use with discretion and at your own risk.
 
